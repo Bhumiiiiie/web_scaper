@@ -35,14 +35,5 @@ python analyze_books.py
 
 3. View results in the terminal
 
-🛠 Requirements
-Install dependencies using:
-pip install requests beautifulsoup4 pandas
 
 
-If you want, I can also generate:
-✅ A GitHub-style project description
-✅ A badge-based README
-✅ Screenshots section
-✅ Output examples
-Just tell me!
